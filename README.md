@@ -50,3 +50,4 @@ Username: user
 Password: user
 
 For any queries, Email at - hi@vijaythapa.com
+"# Anystore" 
